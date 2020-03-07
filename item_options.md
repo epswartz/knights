@@ -1,5 +1,16 @@
 # Item Options
 
+## Rules
+* Don't change class as a result of the options you see. If you feel like the options for your chosen class aren't up to par, let me know and we can figure something out
+* The group collectively has everything in `Group Equipment`
+* You get 2 potions
+* You can either have:
+  * Two items from list 2
+  * One item from list 2 and two items from list 1
+  * Four items from list 1
+* Item modifiers can be stacked - for example, your +1 item of your choice and your adamantine armor of your choice could be the same set of armor.
+
+
 ## Group Equipment
 * 2x Driftglobe
 * 300x Bead of Nourishment
@@ -25,6 +36,7 @@
 * Boots of Striding and Springing
 * Bracers of Archery
 * Brooch of Shielding
+* Ioun Stone (any knowledge)
 * Periapt of Health
 * Periapt of Proof against Poison
 * Periapt of Wound Closure
